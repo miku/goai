@@ -196,7 +196,7 @@ func main() {
     }
 
     app.Name = "goai"
-    app.Version = "1.0.0"
+    app.Version = "0.1.0"
     app.Usage = "OAI command line client"
     app.Run(os.Args)
 }
